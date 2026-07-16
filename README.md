@@ -113,24 +113,6 @@ Additional Security Tools:
 
 ---
 
-# 📊 GitHub Stats
-
-<p align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight"/>
-
-<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight"/>
-
-</p>
-
-<p align="center">
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight"/>
-
-</p>
-
----
-
 # 🌱 Learning Platforms
 
 - TryHackMe
@@ -143,11 +125,11 @@ Additional Security Tools:
 
 # 📫 Connect With Me
 
-📧 Email: your-email@example.com
+📧 Email: info.manojup01@gmail.com
 
-💼 LinkedIn: https://linkedin.com/in/your-profile
+💼 LinkedIn: www.linkedin.com/in/manoj-bora-86b84b301
 
-💻 GitHub: https://github.com/YOUR_USERNAME
+💻 GitHub: https://github.com/git-manojbora
 
 ---
 
