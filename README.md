@@ -1,167 +1,160 @@
-```markdown
-# 👋 Hi, I'm Manoj Bora
+# Hi there, I'm Manoj Bora 👋
 
-## 🛡️ Cybersecurity Analyst | SOC Enthusiast | VAPT Learner | Security Researcher
-
-I am passionate about protecting digital infrastructure through security monitoring, vulnerability assessment, and defensive security practices. My primary interests include Security Operations Center (SOC), Incident Response, Threat Detection, Vulnerability Assessment & Penetration Testing (VAPT), and Computer Networking.
-
-I continuously improve my technical skills by exploring modern cyber threats, practicing in security labs, and learning industry-standard tools and methodologies.
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=00FF88&center=true&vCenter=true&width=700&lines=Cybersecurity+Student;SOC+%7C+VAPT+Learner;Blue+Team+Enthusiast;Always+Learning+%F0%9F%9A%80" />
+</p>
 
 ---
 
-## 🚀 About Me
+# 🛡️ About Me
 
-Passionate about Cybersecurity and Computer Networking
+I am a cybersecurity student passionate about defending systems, identifying vulnerabilities, and continuously improving my technical skills through hands-on practice.
 
-Focused on Security Operations Center (SOC)
+Currently, I am building strong foundations in:
 
-Learning Vulnerability Assessment & Penetration Testing (VAPT)
+- 🔵 Security Operations Center (SOC)
+- 🔴 Vulnerability Assessment & Penetration Testing (VAPT)
+- 🌐 Computer Networking (CCNA)
+- 🐧 Linux Administration
+- ☁️ Cloud Security (AWS & Azure)
+- 🐍 Python for Security Automation
 
-Interested in Blue Team Operations, Threat Detection, and Incident Response
-
-Committed to continuous learning through practical labs and hands-on experience
-
----
-
-## 💻 Technical Skills
-
-### Programming
-
-Python
-
-C
-
-HTML5
-
-CSS3
-
-### Cybersecurity
-
-Security Operations Center (SOC)
-
-Vulnerability Assessment
-
-Penetration Testing
-
-Threat Detection
-
-Security Monitoring
-
-Log Analysis
-
-Incident Response Fundamentals
-
-Network Security
-
-### Networking
-
-TCP/IP
-
-OSI Model
-
-Routing & Switching
-
-DNS
-
-DHCP
-
-Subnetting
-
-VLANs
-
-Network Troubleshooting
-
-### Operating Systems
-
-Linux
-
-Windows
-
-### Tools & Technologies
-
-Git
-
-GitHub
-
-Visual Studio Code
-
-Wireshark
-
-Nmap
-
-Burp Suite
-
-Metasploit Framework
-
-Python
+I regularly practice on platforms like **TryHackMe**, **PortSwigger Web Security Academy**, and personal virtual labs to strengthen my practical cybersecurity skills.
 
 ---
 
-## 📚 Learning Roadmap
+# 🎯 Career Objective
 
-Security Operations Center (SOC)
+My goal is to begin my cybersecurity career as either a:
 
-SIEM Fundamentals
+- SOC Analyst
+- VAPT Analyst
 
-Computer Networking (CCNA)
-
-Python for Security Automation
-
-Linux Administration
-
-Digital Forensics
-
-Incident Response
-
-Malware Analysis Fundamentals
-
-Threat Hunting
-
-Cloud Security
+After gaining practical industry experience, I plan to transition into **Cloud Security** and continue building expertise in enterprise cybersecurity.
 
 ---
 
-## 🎯 Career Goals
+# 💻 Technical Skills
 
-Become a Professional SOC Analyst
+## Programming
 
-Develop expertise in Blue Team Operations
+- Python
+- C
+- HTML
+- CSS
 
-Gain practical experience in Vulnerability Assessment & Penetration Testing
+## Cybersecurity
 
-Earn globally recognized cybersecurity certifications
+- Security Operations Center (SOC)
+- Vulnerability Assessment
+- Web Application Security
+- Penetration Testing Fundamentals
+- Network Security
+- Incident Response Fundamentals
+- Threat Detection
+- Log Analysis
 
-Build enterprise-level cybersecurity solutions
+## Networking
 
-Contribute to the cybersecurity community through continuous learning and collaboration
+- TCP/IP
+- OSI Model
+- DNS
+- DHCP
+- Routing & Switching
+- VLANs
+- Subnetting
 
----
+## Operating Systems
 
-## 🏆 Certifications
-
-Currently preparing for professional cybersecurity certifications.
-
-Cisco CCNA
-
-CompTIA Security+
-
-CompTIA CySA+
-
-EC-Council Certified Ethical Hacker (CEH)
-
-Blue Team Level 1 (BTL1)
-
----
-
-## 📫 Connect With Me
-
-Email: your-email@example.com
-
-LinkedIn: https://linkedin.com/in/your-profile
-
-GitHub: https://github.com/your-username
+- Linux
+- Windows
 
 ---
 
-> **"Cybersecurity is not just about defending systems—it's about staying one step ahead of evolving threats."**
-```
+# 🛠️ Tools
+
+<p>
+<img src="https://skillicons.dev/icons?i=python,git,github,vscode,linux,windows" />
+</p>
+
+Additional Security Tools:
+
+- Nmap
+- Wireshark
+- Burp Suite
+- Metasploit Framework
+- Hydra
+- Nessus Essentials
+
+---
+
+# 📖 Currently Learning
+
+- Security Operations Center (SOC)
+- CEH Practical Concepts
+- Web Application Security
+- Active Directory Basics
+- Digital Forensics
+- Threat Hunting
+- Malware Analysis Fundamentals
+- AWS Cloud Security
+- Microsoft Azure Security
+
+---
+
+# 📂 Featured Repositories
+
+- 📘 Cybersecurity Notes
+- 🔍 PortSwigger Lab Write-ups
+- 🌐 Networking Notes
+- 🐧 Linux Notes
+- 🧠 TryHackMe Write-ups
+- ⚙️ Python Security Scripts
+
+---
+
+# 📊 GitHub Stats
+
+<p align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight"/>
+
+<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight"/>
+
+</p>
+
+<p align="center">
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight"/>
+
+</p>
+
+---
+
+# 🌱 Learning Platforms
+
+- TryHackMe
+- PortSwigger Web Security Academy
+- GitHub
+- Microsoft Learn
+- AWS Skill Builder
+
+---
+
+# 📫 Connect With Me
+
+📧 Email: your-email@example.com
+
+💼 LinkedIn: https://linkedin.com/in/your-profile
+
+💻 GitHub: https://github.com/YOUR_USERNAME
+
+---
+
+# 💡 Quote
+
+> *"Cybersecurity is a journey of continuous learning, curiosity, and persistence."*
+
+---
+
+⭐ **Thank you for visiting my profile! Feel free to explore my repositories and follow my cybersecurity journey.**
